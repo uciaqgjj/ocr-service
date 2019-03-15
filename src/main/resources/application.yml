@@ -1,0 +1,13 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+orc:
+  basePath: d:/tmp/ocr-files
+
+baidu:
+  aip:
+    appId: 15744076
+    appKey: LKmhWf5tvwORttXPFv6Kvc5I
+    secretKey: S9e1RMh9qjT0p6YuB10sPGRFb86dUhWW
